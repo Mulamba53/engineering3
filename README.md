@@ -123,7 +123,25 @@ motors can draw a lot more juice (current) than LEDs. In fact, they draw so much
 ### Evidence
 *  https://www.tinkercad.com/things/brGb4NP2EIS-writing-the-code/editel?lessonid=E2IR521ISCBY8RV&projectid=O73WOLIISCC2EWG#/lesson-viewer
 * https://www.wevideo.com/class#view-media/3196420050/
-* this is link for tinkercad
+* import time
+import board
+import pwmio
+from analogio import AnalogIn
+from digitalio import DigitalInOut, Direction, Pull
+
+motor = pwmio.PWMOut(board.D9, frequency=50)
+
+
+
+
+pot = AnalogIn(board.A1)
+
+
+
+while True:
+  print(pot.value)
+  time.sleep(0.1)
+  motor.duty_cycle=pot.value
 
 ### Wiring
 
