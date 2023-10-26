@@ -114,7 +114,7 @@ ________________________________________________________________________________
 ## Motor_control
 
 
-### Description & Code Snippets\
+### Description & Code 
 
 The goal of the assignment was to control motor with the speeding button.
 I accomplish to my goal by using goal and ask firend for help and using my idea also I take a step by step top accomplish to my goial.
@@ -131,5 +131,4 @@ motors can draw a lot more juice (current) than LEDs. In fact, they draw so much
 
 
 ### Reflection
-
-It is very helpful to using something like Motor because it can go forward and backward when I was use the Motor it was fun for me because 
+This assignment was fun to do, because you could control how fast the motor goes by tuning potentiometer. 
