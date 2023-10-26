@@ -2,7 +2,7 @@
 
 
 
-### Assignment Description
+### Assignment DescriptionL: for this assignement we were supposed to create a swing arm using onshape, using some complicated steps.
 
  * Create this part in Onshape. 
 
@@ -18,7 +18,7 @@
 
   * https://cvilleschools.onshape.com/documents/d10cb16dbbec7c77c4a9579f/w/c7b88cf4387e01565ace8d16/e/e63d5010121b85b8d8393555?renderMode=0&uiState=65314de9d569811e5d8be672
 
-### Reflection
+### Reflection:This onshape assignement was both fun and challenging at the same time, we had to design a swing arm using onshape, I was able to finish this with the help of the teacher and a couple of my peers
 
   * 
 
@@ -28,13 +28,13 @@
 
 
 
-### Assignment Description
+### Assignment Description:
 
 
-### Evidence
+### Evidence:
 
 
-### Part Link 
+### Part Link :
 
 
-### Reflection
+### Reflection:
