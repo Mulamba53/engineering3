@@ -149,4 +149,24 @@ while True:
 
 
 ### Reflection
-This assignment was fun to do, because you could control how fast the motor goes by tuning potentiometer. 
+This assignment was fun to do, because you could control how fast the motor goes by tuning potentiometer.
+
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+-----------------------------------------------------------------------________________________________________-----------------------------------------
+
+Onshape Certification Prep Assemblies
+
+Description:
+
+We were supposed to assemble a bisecript
+
+![image](https://github.com/Mulamba53/engineering3/assets/143534921/fe5cfc25-9866-4993-bc03-2d0196baf91b)
+![image](https://github.com/Mulamba53/engineering3/assets/143534921/152faa94-f17d-40c6-9eda-756e4e1f8d9b)
+
+Part Link
+https://cvilleschools.onshape.com/documents/24ac4dc280277777323ba868/w/847ea6b028521569683a5f1e/e/c09198894538ca25f7ae7459?renderMode=0&uiState=656a0b0582a99813ab4c2072
+
+Reflection
+
+This assignment helped me learn more about using Revolute to assemble things
+
