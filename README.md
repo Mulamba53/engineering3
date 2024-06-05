@@ -202,6 +202,7 @@ if __name__ == "__main__":
     # Move the arm to position (100, 200, 50)
     move_arm(100, 200, 50)
 
-    Reflection-- Even though we weren't able to finish this assignement before the deadline we were able to do a few things which were the coding and onshape designing
+    Reflection-- Even though we weren't able to finish this assignment before the deadline we were able to do a few things which were the coding and onshape designing
+    
 
 
